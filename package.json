@@ -1,0 +1,15 @@
+{
+  "name": "modsen-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Overloade1212/modsen-typescript.git",
+  "author": "Overloade1212 <oveerlord139@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2"
+  },
+  "scripts": {
+  "build": "tsc"
+}
+}
